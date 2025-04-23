@@ -1,0 +1,11 @@
+{
+  "id": "obsidian-timestamp-plugin",
+  "name": "Timestamp Plugin",
+  "version": "1.0.0",
+  "minAppVersion": "0.12.0",
+  "description": "Inserts or copies a timestamp in DD/MM/YYYY HH:MM format.",
+  "author": "Your Name",
+  "authorUrl": "https://yourwebsite.com",
+  "isDesktopOnly": true,
+  "main": "main.js"
+}
